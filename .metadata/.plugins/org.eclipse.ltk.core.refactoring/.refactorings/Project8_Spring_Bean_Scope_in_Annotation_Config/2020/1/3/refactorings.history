@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;Project8_Spring_Bean_Scope_in_Annotation_Config&apos;&#x0D;&#x0A;- Original project: &apos;Project8_Spring_Bean_Scope_in_Annotation_Config&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     example.FortuneService.java&#x0D;&#x0A;     example.HappyFortuneService.java&#x0D;&#x0A;     example.RandomFortuneService.java" description="Delete elements" element1="/src&lt;example{FortuneService.java" element2="/src&lt;example{HappyFortuneService.java" element3="/src&lt;example{RandomFortuneService.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1579348991378" subPackages="false" version="1.0"/>
+</session>

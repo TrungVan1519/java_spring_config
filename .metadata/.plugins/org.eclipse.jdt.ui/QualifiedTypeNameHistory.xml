@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.example.BaseballCoach"/>
+<fullyQualifiedTypeName name="sun.tools.tree.ThisExpression"/>
+<fullyQualifiedTypeName name="com.example.HappyFortuneService"/>
+<fullyQualifiedTypeName name="com.example.Person"/>
+<fullyQualifiedTypeName name="com.example.Animal"/>
+<fullyQualifiedTypeName name="com.example.FortuneService"/>
+<fullyQualifiedTypeName name="java.lang.WeakPairMap.Pair.Weak"/>
+<fullyQualifiedTypeName name="com.example.Weather"/>
+<fullyQualifiedTypeName name="com.example.Coach"/>
+<fullyQualifiedTypeName name="com.example.TrackCoach"/>
+<fullyQualifiedTypeName name="example.Human"/>
+<fullyQualifiedTypeName name="example.PersonWithDefaultAnnotation"/>
+<fullyQualifiedTypeName name="example.FortuneService"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="example.Person"/>
+<fullyQualifiedTypeName name="example.Animal"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="javax.annotation.PreDestroy"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="example.Spanish"/>
+<fullyQualifiedTypeName name="example.American"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="config.AppConfig"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="example.AppConfig"/>
+<fullyQualifiedTypeName name="example.BluePrint"/>
+<fullyQualifiedTypeName name="example.Vehicle"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<!-- define injection -->	
+	<!-- id tuy y -->
+	<!-- name phai la thuoc tinh trong class va co ham setter -->
+	<!-- value tuy y -->
+	<!-- ref phai la id cua 1 Bean da dinh nghia san truoc do -->
+	<bean id="carBluePrint" class="example.BluePrint">
+		<property name="type" value=". This is a car"/>
+	</bean>
+	
+	<bean id="bikeBluePrint" class="example.BluePrint">
+		<property name="type" value=". This is a bike"/>
+	</bean>
+	
+	<!-- define dependencies of BluePrint and injection of Human as well -->
+	<bean id="car" class="example.Vehicle">
+	
+		<!-- set up injection -->
+		<property name="bluePrint" ref="carBluePrint"/>
+	</bean>
+	
+	<bean id="bike" class="example.Vehicle">
+	
+		<!-- set up injection -->
+		<property name="bluePrint" ref="bikeBluePrint"/>
+	</bean>
+	
+	<!-- define dependencies -->
+	<bean id="myAmerican" class="example.American">
+		
+		<!-- set up injection -->
+		<constructor-arg ref="car"/>
+	</bean>
+	
+	<bean id="mySpanish" class="example.American">
+		
+		<!-- set up injection -->
+		<constructor-arg ref="bike"/>
+	</bean>
+</beans>

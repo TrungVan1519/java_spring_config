@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;example&apos; to &apos;_Project10.4_Java_Code_Config_Setter_DI/src&apos;&#x0D;&#x0A;- Original project: &apos;Project4.5_XML_Config_Setter_DI&apos;&#x0D;&#x0A;- Destination element: &apos;_Project10.4_Java_Code_Config_Setter_DI/src&apos;&#x0D;&#x0A;- Original element: &apos;Project4.5_XML_Config_Setter_DI/src/example&apos;" description="Copy package" destination="=_Project10.4_Java_Code_Config_Setter_DI/src" element1="/src&lt;example" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1579458508386" version="1.0"/>
+</session>
